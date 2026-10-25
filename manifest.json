@@ -1,0 +1,52 @@
+{
+  "model": "lumi.gateway.aqcn02",
+  "region": "China mainland",
+  "archived_on": "2026-10-25",
+  "artifacts": [
+    {
+      "file": "Network-Co-Processor.ota",
+      "version": "4.3.8_0023",
+      "kind": "Stock component from community archive",
+      "bytes": 190786,
+      "sha256": "0f746fba6b03c8b011fa6deb1d140e75e0634577ea0d5823b98dec8a49924205",
+      "md5": "344c0c4c51f169996c5f9ea9ac6df00c",
+      "source_url": "https://raw.githubusercontent.com/niceboygithub/AqaraCameraHubfw/38f602a3b839ceb75ef9746ff5fe157017008db0/original/E1/4.0.6_0010_4.3.8_0023/Network-Co-Processor.ota"
+    },
+    {
+      "file": "aqara-official-4.5.60_0031.0013.bin",
+      "version": "4.5.60_0031.0013",
+      "kind": "Official Aqara CN OTA package",
+      "bytes": 16117864,
+      "sha256": "b332ef772ec01558082d41b5b030b667e8a95c122b0b2e1e73460960181aec3d",
+      "md5": "f1259b5cfa88c14c370fff75d5d2d758",
+      "source_url": "https://cdn.aqara.com/cdn/opencloud-product/mainland/product-firmware/prd/lumi.gateway.aqcn02/20260915114532_lumi.gateway.aqcn02_AIOT_V4.5.60_0031.0013_20260910_d2d758.bin"
+    },
+    {
+      "file": "kernel_4.0.6_0010_4.3.8_0023",
+      "version": "4.3.8_0023",
+      "kind": "Stock component from community archive",
+      "bytes": 2254636,
+      "sha256": "9b92152734c2bf0ce95eb61baf7c14911d0f532a6931e365a3dc4eeb98154cbf",
+      "md5": "d2a05a9dc5589e5b63ff1a57e5d83b54",
+      "source_url": "https://raw.githubusercontent.com/niceboygithub/AqaraCameraHubfw/38f602a3b839ceb75ef9746ff5fe157017008db0/original/E1/4.0.6_0010_4.3.8_0023/kernel_4.0.6_0010_4.3.8_0023"
+    },
+    {
+      "file": "mihome-official-3.1.6_0001.bin",
+      "version": "3.1.6_0001",
+      "kind": "Official Xiaomi CN MIOT OTA package",
+      "bytes": 12311897,
+      "sha256": "70fb33df65084d6a5c0c8603d1c7ee641ceba083f73db49898053bfbe5f0bd75",
+      "md5": "bac900f3b4470df4e16f86d386b679f1",
+      "source_url": "https://iot-ota-cdn.io.mi.com/miio_fw/bac900f3b4470df4e16f86d386b679f1_upd_lumi.gateway.aqcn02.bin"
+    },
+    {
+      "file": "rootfs_4.0.6_0010_4.3.8_0023.sqfs",
+      "version": "4.3.8_0023",
+      "kind": "Stock component from community archive",
+      "bytes": 13234176,
+      "sha256": "f5bcd1b7601cb4dfe72e577b05c6426b76dd75bab74bad95eada3452f8653768",
+      "md5": "cbc25c9bd6a0dfe7c45b8f575de8245a",
+      "source_url": "https://raw.githubusercontent.com/niceboygithub/AqaraCameraHubfw/38f602a3b839ceb75ef9746ff5fe157017008db0/original/E1/4.0.6_0010_4.3.8_0023/rootfs_4.0.6_0010_4.3.8_0023.sqfs"
+    }
+  ]
+}
